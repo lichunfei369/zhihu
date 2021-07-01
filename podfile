@@ -1,0 +1,6 @@
+target'知乎' do
+pod 'AFNetworking'
+pod 'SDWebImage'
+pod 'SDAutoLayout'
+pod 'MJExtension'
+end

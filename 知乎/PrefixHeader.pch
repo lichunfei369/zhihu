@@ -1,0 +1,19 @@
+//
+//  PrefixHeader.pch
+//  知乎
+//
+//  Created by 李春菲 on 2018/1/7.
+//  Copyright © 2018年 李春菲. All rights reserved.
+//
+
+#ifndef PrefixHeader_h
+#define PrefixHeader_h
+
+
+#endif /* PrefixHeader_h */
+#define SCREEN_WITH   ([[UIScreen mainScreen] bounds].size.width)
+#define SCREEN_HEIGHT [[UIScreen mainScreen] bounds].size.height
+#import "AFNetworking.h"
+#import <SDAutoLayout.h>
+#import  <MJExtension.h>
+#import <SDWebImage/UIImageView+WebCache.h>
